@@ -13,3 +13,9 @@
 
 #### Resource 
 1. DomPDF : https://www.petanikode.com/codeigniter-dompdf/
+
+
+#### TODO
+1.Login MultiLevelUser
+2.Database Mahasiswa / API
+3.Parsing data mahasiswa ke file template pdf
